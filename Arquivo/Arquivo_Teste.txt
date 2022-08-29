@@ -1,0 +1,5 @@
+1;Água e Esgoto;200
+2;Energia Elétrica;400
+3;Telefone;100
+4;Internet;80
+5;TV;120
